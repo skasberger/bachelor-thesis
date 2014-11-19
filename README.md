@@ -13,20 +13,20 @@ The Bachelor Thesis is part of the [Environmental Systems Science with focus on 
 - [Webpage](http://openscienceasap.org/research/bachelor-thesis-stefan-kasberger) 
 
 **Used software**
-- Python and iPython
-- LaTeX
-- [html 2 markdown editor](http://dillinger.io/)
-- Zotero with Firefox Plugin
-- Sublime
-- Git and GitHub
-- Wordpress
+- [Python](https://www.python.org/) and [iPython}(http://ipython.org/) for data analysis and visualization
+	- [wmf]()
+	- [virtualenv](https://virtualenv.pypa.io): ```source venv/bin/activate```
+- [Sublime](http://www.sublimetext.com/) as text editor for coding
+- [Git](http://git-scm.com/) and [GitHub](http://github.com/) for software versioning
+- [Zotero](https://www.zotero.org/) with firefox plugin for citation management
+- [LaTeX](http://www.latex-project.org/) for writting
+- [Wordpress](https://wordpress.org/) for blogging regular outcomes at [openscienceASAP.org](http://openscienceasap.org)
+- [orgmode](http://orgmode.org/) and [emacs](http://www.gnu.org/software/emacs/) for project management
+- [html 2 markdown editor](http://dillinger.io/) for converting markdown to html
 
 **Used data**
 Open Data from following data repositories were used:
-- [Portal](URL)
-
-Closed Data from following data repositories were used:
-- [Portal](URL)
+- [Wikipedia EN](https://en.wikipedia.org/wiki/Main_Page) via [Export Special Page](https://en.wikipedia.org/w/index.php?title=Special:Export)
 
 ## STRUCTURE
 - [README.md](README.md): Overview of repository
