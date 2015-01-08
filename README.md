@@ -7,19 +7,21 @@ The Bachelor Thesis is part of the [Environmental Systems Science with focus on 
 
 - Institute: [GESIS Computational Social Sciences - Team Data Science](http://www.gesis.org/en/institute/gesis-scientific-departments/computational-social-science/)
 - Advisor: [Fabian Flöck](https://twitter.com/ffloeck) and [Markus Strohmaier](http://twitter.com/mstrohm)
-- Status: Phase 1 - Conceptual
+- Status: Explorative
 - Start: 10. November 2014
 - Language: English
 - [Webpage](http://openscienceasap.org/research/bachelor-thesis-stefan-kasberger) 
 
+**The content of my bachelor thesis is under daily changes and some scripts and data exports must be prepared or checked in terms of copyright before adding it to the repo. This will take some time, thanks for your understanding.**
+
 ## Openness
 ### Used software
 **Scripts**
-- [WikiWho](): GPL v2
-- [Cisemcode](): GPL v2
+- WikiWho: GPL v2
+- Cisemcode: GPL v2
 
 **Applications**
-- [Python](https://www.python.org/) and [iPython}(http://ipython.org/) for data analysis and visualization
+- [Python](https://www.python.org/) and [iPython](http://ipython.org/) for data analysis and visualization
 	- [wmf]()
 	- [virtualenv](https://virtualenv.pypa.io): ```source venv/bin/activate```
 - [Sublime](http://www.sublimetext.com/) as text editor for coding
@@ -35,17 +37,12 @@ Open Data from following data repositories were used:
 - [Wikipedia EN](https://en.wikipedia.org/wiki/Main_Page) via [Export Special Page](https://en.wikipedia.org/w/index.php?title=Special:Export)
 
 ## USAGE
-Download all articles from Wikipedia.
+First you need to adapt the wikipages_server.csv in ```data/csv``` to your needs. title, maintainer id and maintainer name are mandatory. To enable download write ```yes``` in the 'download' column, same for compute_stats and analysis. Then you only have to execute the following command inside ```code/python/```:
 ```
-sh code/shell/fetch_wikiarticles.sh
-```
+python wikibuild.py -a 'William_McKendree'
 
-Compute authorship data and json export.
-```
-sh code/shell/create_authors-json.sh
 ```
 
 ## STRUCTURE
 - [README.md](README.md): Overview of repository
-
 
