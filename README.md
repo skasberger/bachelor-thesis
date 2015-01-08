@@ -12,7 +12,13 @@ The Bachelor Thesis is part of the [Environmental Systems Science with focus on 
 - Language: English
 - [Webpage](http://openscienceasap.org/research/bachelor-thesis-stefan-kasberger) 
 
-**Used software**
+## Openness
+### Used software
+**Scripts**
+- [WikiWho](): GPL v2
+- [Cisemcode](): GPL v2
+
+**Applications**
 - [Python](https://www.python.org/) and [iPython}(http://ipython.org/) for data analysis and visualization
 	- [wmf]()
 	- [virtualenv](https://virtualenv.pypa.io): ```source venv/bin/activate```
@@ -24,9 +30,20 @@ The Bachelor Thesis is part of the [Environmental Systems Science with focus on 
 - [orgmode](http://orgmode.org/) and [emacs](http://www.gnu.org/software/emacs/) for project management
 - [html 2 markdown editor](http://dillinger.io/) for converting markdown to html
 
-**Used data**
+### Used data
 Open Data from following data repositories were used:
 - [Wikipedia EN](https://en.wikipedia.org/wiki/Main_Page) via [Export Special Page](https://en.wikipedia.org/w/index.php?title=Special:Export)
+
+## USAGE
+Download all articles from Wikipedia.
+```
+sh code/shell/fetch_wikiarticles.sh
+```
+
+Compute authorship data and json export.
+```
+sh code/shell/create_authors-json.sh
+```
 
 ## STRUCTURE
 - [README.md](README.md): Overview of repository
