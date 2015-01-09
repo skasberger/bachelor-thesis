@@ -1,0 +1,519 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>http://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.25wmf9</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Finger Lakes 2</title>
+    <ns>1</ns>
+    <id>12062908</id>
+    <revision>
+      <id>142152278</id>
+      <timestamp>2007-07-03T02:29:17Z</timestamp>
+      <contributor>
+        <username>Altenmann</username>
+        <id>28438</id>
+      </contributor>
+      <comment>[[WP:AES|←]]Created page with '==References== Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publi...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="238">==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)</text>
+      <sha1>4r3evi9lm135susciiwc32tytt2dkov</sha1>
+    </revision>
+    <revision>
+      <id>143042409</id>
+      <parentid>142152278</parentid>
+      <timestamp>2007-07-07T05:06:15Z</timestamp>
+      <contributor>
+        <username>Caknuck</username>
+        <id>32272</id>
+      </contributor>
+      <comment>Noting &quot;Keep&quot; result of AfD</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="291">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)</text>
+      <sha1>g3k15vqqac82qg9scjc7tgnunl5nbkq</sha1>
+    </revision>
+    <revision>
+      <id>143598132</id>
+      <parentid>143042409</parentid>
+      <timestamp>2007-07-09T22:33:53Z</timestamp>
+      <contributor>
+        <username>Alex Kosorukoff</username>
+        <id>93619</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="755">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)</text>
+      <sha1>syazl2zg52q2gtvtfnj3pkm9shefiqb</sha1>
+    </revision>
+    <revision>
+      <id>147332002</id>
+      <parentid>143598132</parentid>
+      <timestamp>2007-07-26T23:03:40Z</timestamp>
+      <contributor>
+        <username>BananaSlug</username>
+        <id>1694377</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="998">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)</text>
+      <sha1>9zf6jyiwyumvyewwouuh2oe0wybu5lg</sha1>
+    </revision>
+    <revision>
+      <id>147615974</id>
+      <parentid>147332002</parentid>
+      <timestamp>2007-07-28T06:33:31Z</timestamp>
+      <contributor>
+        <username>Alex Kosorukoff</username>
+        <id>93619</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1123">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)</text>
+      <sha1>1khoy77ay7gu6xgto3vkboks3j8j84d</sha1>
+    </revision>
+    <revision>
+      <id>186362812</id>
+      <parentid>147615974</parentid>
+      <timestamp>2008-01-23T16:07:24Z</timestamp>
+      <contributor>
+        <username>GregorB</username>
+        <id>179697</id>
+      </contributor>
+      <comment>Nofootnotes</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1432">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)
+
+:The article is now marked with {{tl|nofootnotes}}. The references indeed exist, but they are not marked with &lt;nowiki&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/nowiki&gt; tags, which is a purely technical issue - not an issue of content quality, of course. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:07, 23 January 2008 (UTC)</text>
+      <sha1>mos50ulwn9eavpde1z4ukxtw5wk7kzl</sha1>
+    </revision>
+    <revision>
+      <id>186364474</id>
+      <parentid>186362812</parentid>
+      <timestamp>2008-01-23T16:16:40Z</timestamp>
+      <contributor>
+        <username>GregorB</username>
+        <id>179697</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1588">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)
+
+:The article is now marked with {{tl|nofootnotes}}. The references indeed exist, but they are not marked with &lt;nowiki&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/nowiki&gt; tags, which is a purely technical issue - not an issue of content quality, of course. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:07, 23 January 2008 (UTC)
+
+::Self-reverted. The sources are clear, and ref tags are not mandatory. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:16, 23 January 2008 (UTC)</text>
+      <sha1>5n1ieitb41wu77htoddmgilzdntix8i</sha1>
+    </revision>
+    <revision>
+      <id>358755751</id>
+      <parentid>186364474</parentid>
+      <timestamp>2010-04-28T00:27:42Z</timestamp>
+      <contributor>
+        <ip>209.117.47.253</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1891">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)
+
+:The article is now marked with {{tl|nofootnotes}}. The references indeed exist, but they are not marked with &lt;nowiki&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/nowiki&gt; tags, which is a purely technical issue - not an issue of content quality, of course. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:07, 23 January 2008 (UTC)
+
+::Self-reverted. The sources are clear, and ref tags are not mandatory. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:16, 23 January 2008 (UTC)
+
+The usage of genetic algorithms for this concept seems outdated and unnecessary. Genetic algorithms were used in the 90s (and have completely fallen out of fashion) and inherently have nothing to do with outsourcing computational steps to humans -- an idea that predates genetic algorithms themselves.</text>
+      <sha1>5mez9ytd7e8ht8herhsqluecchcs9hu</sha1>
+    </revision>
+    <revision>
+      <id>475301126</id>
+      <parentid>358755751</parentid>
+      <timestamp>2012-02-05T22:46:04Z</timestamp>
+      <contributor>
+        <username>Alex Kosorukoff</username>
+        <id>93619</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3554">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)
+
+:The article is now marked with {{tl|nofootnotes}}. The references indeed exist, but they are not marked with &lt;nowiki&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/nowiki&gt; tags, which is a purely technical issue - not an issue of content quality, of course. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:07, 23 January 2008 (UTC)
+
+::Self-reverted. The sources are clear, and ref tags are not mandatory. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:16, 23 January 2008 (UTC)
+
+The usage of genetic algorithms for this concept seems outdated and unnecessary. Genetic algorithms were used in the 90s (and have completely fallen out of fashion) and inherently have nothing to do with outsourcing computational steps to humans -- an idea that predates genetic algorithms themselves. (Anonymous at 209.117.47.253)
+
+:  Wikipedia is not a fashion show, so fashion is not that big of a concern here.  Could you please provide at least one reference to support your other claim that HBC idea predates genetic algorithms?  Any publication that proposes a computer-executed algorithm outsourcing some step to humans would do as long as it is published before 1960s when genetic algorithms became a common optimization tool. I did some research in the subject, but never came across references like ones your claim could be based on, so I doubt that you have or can find one. Here is a couple of reasons that make me believe so: (1) the concept of outsourcing wasn't proposed till 1990s (in connection with the core competence ideas by Prahalad/Hamel), (2) HBC implies ability of the algorithm running inside a computer to communicate quickly with a large number of humans which is only feasible if you have low-latency scalable communication media. This media just wasn't available before the advent of the data networks, like the Internet. In other words, the prerequisites for HBC weren't there till 90s when the concept originated. I guess if someone would have introduced HBC concept before that, this could only be purely theoretical work. I still would like to know of one if it exists. Whether you like it or not, the concept was introduced and developed in its current form by   evolutionary computation researchers who were motivated by the difficulty to compute a fitness functions expressing human preference and perception of beauty. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 22:46, 5 February 2012 (UTC)</text>
+      <sha1>b7satpdms8v85dg36dnfccu04e1o6hb</sha1>
+    </revision>
+    <revision>
+      <id>475301684</id>
+      <parentid>475301126</parentid>
+      <timestamp>2012-02-05T22:50:21Z</timestamp>
+      <contributor>
+        <username>Alex Kosorukoff</username>
+        <id>93619</id>
+      </contributor>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3585">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)
+
+:The article is now marked with {{tl|nofootnotes}}. The references indeed exist, but they are not marked with &lt;nowiki&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/nowiki&gt; tags, which is a purely technical issue - not an issue of content quality, of course. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:07, 23 January 2008 (UTC)
+
+::Self-reverted. The sources are clear, and ref tags are not mandatory. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:16, 23 January 2008 (UTC)
+
+The usage of genetic algorithms for this concept seems outdated and unnecessary. Genetic algorithms were used in the 90s (and have completely fallen out of fashion) and inherently have nothing to do with outsourcing computational steps to humans -- an idea that predates genetic algorithms themselves. (Anonymous at 209.117.47.253)
+
+:  Wikipedia is not a fashion show, so fashion is not that big of a concern here.  Could you please provide at least one reference to support your other claim that HBC idea predates genetic algorithms?  Any publication that proposes a computer-executed algorithm outsourcing some step to humans would do as long as it is published before 1960s when genetic algorithms became a common optimization tool. I did some research in the subject, but never came across references like ones your claim could be based on, so I doubt that you have or can find one. Here is a couple of reasons that make me believe so: (1) the concept of outsourcing wasn't proposed till 1990s (in connection with the core competence ideas by Prahalad/Hamel), (2) HBC implies ability of the algorithm running inside a computer to communicate quickly with a large number of humans which is only feasible if you have low-latency scalable communication media. This media just wasn't available before the advent of the data networks, like the Internet. In other words, the prerequisites for HBC weren't there till 90s when the concept originated. I guess if someone would have introduced HBC concept before that, this could only be purely theoretical work. I still would like to know of one if it exists. Whether you like it or not, the concept was introduced and developed in its current form by   evolutionary computation researchers who were motivated by the difficulty in producing algorithmic fitness functions that would adequately express human preference and perception of beauty. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 22:46, 5 February 2012 (UTC)</text>
+      <sha1>plg8daeo503cxn1mza2j5f2ucd5l13o</sha1>
+    </revision>
+    <revision>
+      <id>526305897</id>
+      <parentid>475301684</parentid>
+      <timestamp>2012-12-04T08:41:21Z</timestamp>
+      <contributor>
+        <ip>68.193.6.52</ip>
+      </contributor>
+      <comment>/* Accuracy */ new section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4417">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)
+
+:The article is now marked with {{tl|nofootnotes}}. The references indeed exist, but they are not marked with &lt;nowiki&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/nowiki&gt; tags, which is a purely technical issue - not an issue of content quality, of course. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:07, 23 January 2008 (UTC)
+
+::Self-reverted. The sources are clear, and ref tags are not mandatory. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:16, 23 January 2008 (UTC)
+
+The usage of genetic algorithms for this concept seems outdated and unnecessary. Genetic algorithms were used in the 90s (and have completely fallen out of fashion) and inherently have nothing to do with outsourcing computational steps to humans -- an idea that predates genetic algorithms themselves. (Anonymous at 209.117.47.253)
+
+:  Wikipedia is not a fashion show, so fashion is not that big of a concern here.  Could you please provide at least one reference to support your other claim that HBC idea predates genetic algorithms?  Any publication that proposes a computer-executed algorithm outsourcing some step to humans would do as long as it is published before 1960s when genetic algorithms became a common optimization tool. I did some research in the subject, but never came across references like ones your claim could be based on, so I doubt that you have or can find one. Here is a couple of reasons that make me believe so: (1) the concept of outsourcing wasn't proposed till 1990s (in connection with the core competence ideas by Prahalad/Hamel), (2) HBC implies ability of the algorithm running inside a computer to communicate quickly with a large number of humans which is only feasible if you have low-latency scalable communication media. This media just wasn't available before the advent of the data networks, like the Internet. In other words, the prerequisites for HBC weren't there till 90s when the concept originated. I guess if someone would have introduced HBC concept before that, this could only be purely theoretical work. I still would like to know of one if it exists. Whether you like it or not, the concept was introduced and developed in its current form by   evolutionary computation researchers who were motivated by the difficulty in producing algorithmic fitness functions that would adequately express human preference and perception of beauty. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 22:46, 5 February 2012 (UTC)
+
+== Accuracy ==
+
+&quot;Human computation&quot; redirects to this article, but this article covers almost none of the work that is generally agreed to be in this area.  See for example the book Human Computation by Edith Law and Luis von Ahn, which came out in 2011 by Morgan and Claypool Publishers and provides a comprehensive overview of the topic, or the proceedings of the last 4 Human Computation Workshops.  Almost nothing from this article is found in those venues, and very little from those publications are present here.  I suggest creating a separate article for Human Computation -- it is a well-established research area that is not reflected here.
+
+(I also note that one of the editors of this article is also included in citations in this article, further bringing into question the objectivity of the coverage of this topic.)</text>
+      <sha1>h2098t1wusb4m7tg0q23fifitd9lb2m</sha1>
+    </revision>
+    <revision>
+      <id>526305981</id>
+      <parentid>526305897</parentid>
+      <timestamp>2012-12-04T08:42:29Z</timestamp>
+      <contributor>
+        <username>SineBot</username>
+        <id>4936590</id>
+      </contributor>
+      <minor/>
+      <comment>Signing comment by [[Special:Contributions/68.193.6.52|68.193.6.52]] - &quot;/* Accuracy */ new section&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4713">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)
+
+:The article is now marked with {{tl|nofootnotes}}. The references indeed exist, but they are not marked with &lt;nowiki&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/nowiki&gt; tags, which is a purely technical issue - not an issue of content quality, of course. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:07, 23 January 2008 (UTC)
+
+::Self-reverted. The sources are clear, and ref tags are not mandatory. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:16, 23 January 2008 (UTC)
+
+The usage of genetic algorithms for this concept seems outdated and unnecessary. Genetic algorithms were used in the 90s (and have completely fallen out of fashion) and inherently have nothing to do with outsourcing computational steps to humans -- an idea that predates genetic algorithms themselves. (Anonymous at 209.117.47.253)
+
+:  Wikipedia is not a fashion show, so fashion is not that big of a concern here.  Could you please provide at least one reference to support your other claim that HBC idea predates genetic algorithms?  Any publication that proposes a computer-executed algorithm outsourcing some step to humans would do as long as it is published before 1960s when genetic algorithms became a common optimization tool. I did some research in the subject, but never came across references like ones your claim could be based on, so I doubt that you have or can find one. Here is a couple of reasons that make me believe so: (1) the concept of outsourcing wasn't proposed till 1990s (in connection with the core competence ideas by Prahalad/Hamel), (2) HBC implies ability of the algorithm running inside a computer to communicate quickly with a large number of humans which is only feasible if you have low-latency scalable communication media. This media just wasn't available before the advent of the data networks, like the Internet. In other words, the prerequisites for HBC weren't there till 90s when the concept originated. I guess if someone would have introduced HBC concept before that, this could only be purely theoretical work. I still would like to know of one if it exists. Whether you like it or not, the concept was introduced and developed in its current form by   evolutionary computation researchers who were motivated by the difficulty in producing algorithmic fitness functions that would adequately express human preference and perception of beauty. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 22:46, 5 February 2012 (UTC)
+
+== Accuracy ==
+
+&quot;Human computation&quot; redirects to this article, but this article covers almost none of the work that is generally agreed to be in this area.  See for example the book Human Computation by Edith Law and Luis von Ahn, which came out in 2011 by Morgan and Claypool Publishers and provides a comprehensive overview of the topic, or the proceedings of the last 4 Human Computation Workshops.  Almost nothing from this article is found in those venues, and very little from those publications are present here.  I suggest creating a separate article for Human Computation -- it is a well-established research area that is not reflected here.
+
+(I also note that one of the editors of this article is also included in citations in this article, further bringing into question the objectivity of the coverage of this topic.)  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.193.6.52|68.193.6.52]] ([[User talk:68.193.6.52|talk]]) 08:41, 4 December 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;</text>
+      <sha1>102rrwfo3lp0dy8h9bpjj4pzt07uarz</sha1>
+    </revision>
+    <revision>
+      <id>543181562</id>
+      <parentid>526305981</parentid>
+      <timestamp>2013-03-10T08:58:24Z</timestamp>
+      <contributor>
+        <username>Alex Kosorukoff</username>
+        <id>93619</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5352">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)
+
+:The article is now marked with {{tl|nofootnotes}}. The references indeed exist, but they are not marked with &lt;nowiki&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/nowiki&gt; tags, which is a purely technical issue - not an issue of content quality, of course. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:07, 23 January 2008 (UTC)
+
+::Self-reverted. The sources are clear, and ref tags are not mandatory. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:16, 23 January 2008 (UTC)
+
+The usage of genetic algorithms for this concept seems outdated and unnecessary. Genetic algorithms were used in the 90s (and have completely fallen out of fashion) and inherently have nothing to do with outsourcing computational steps to humans -- an idea that predates genetic algorithms themselves. (Anonymous at 209.117.47.253)
+
+:  Wikipedia is not a fashion show, so fashion is not that big of a concern here.  Could you please provide at least one reference to support your other claim that HBC idea predates genetic algorithms?  Any publication that proposes a computer-executed algorithm outsourcing some step to humans would do as long as it is published before 1960s when genetic algorithms became a common optimization tool. I did some research in the subject, but never came across references like ones your claim could be based on, so I doubt that you have or can find one. Here is a couple of reasons that make me believe so: (1) the concept of outsourcing wasn't proposed till 1990s (in connection with the core competence ideas by Prahalad/Hamel), (2) HBC implies ability of the algorithm running inside a computer to communicate quickly with a large number of humans which is only feasible if you have low-latency scalable communication media. This media just wasn't available before the advent of the data networks, like the Internet. In other words, the prerequisites for HBC weren't there till 90s when the concept originated. I guess if someone would have introduced HBC concept before that, this could only be purely theoretical work. I still would like to know of one if it exists. Whether you like it or not, the concept was introduced and developed in its current form by   evolutionary computation researchers who were motivated by the difficulty in producing algorithmic fitness functions that would adequately express human preference and perception of beauty. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 22:46, 5 February 2012 (UTC)
+
+== Accuracy ==
+
+&quot;Human computation&quot; redirects to this article, but this article covers almost none of the work that is generally agreed to be in this area.  See for example the book Human Computation by Edith Law and Luis von Ahn, which came out in 2011 by Morgan and Claypool Publishers and provides a comprehensive overview of the topic, or the proceedings of the last 4 Human Computation Workshops.  Almost nothing from this article is found in those venues, and very little from those publications are present here.  I suggest creating a separate article for Human Computation -- it is a well-established research area that is not reflected here.
+
+(I also note that one of the editors of this article is also included in citations in this article, further bringing into question the objectivity of the coverage of this topic.)  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.193.6.52|68.193.6.52]] ([[User talk:68.193.6.52|talk]]) 08:41, 4 December 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:* The separate article describing human computation (HC) in its generally accepted meaning exists, see [[human computer]]. As you can see, the common meaning of HC is different from the one you advocate. In fact, the book you suggested uses HC as a shortcut label for HBC and essentially justifies the existing redirect. I think, this usage is questionable as HC doesn't capture non-algorithmic tasks humans commonly do in HBC. Unfortunately, the erroneous usage became widespread mainly due to the authors of the book you mention. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 08:58, 10 March 2013 (UTC)</text>
+      <sha1>rz1j4yed0g9zeq3uuqoxk3vpo0604rq</sha1>
+    </revision>
+    <revision>
+      <id>543181945</id>
+      <parentid>543181562</parentid>
+      <timestamp>2013-03-10T09:00:56Z</timestamp>
+      <contributor>
+        <username>Alex Kosorukoff</username>
+        <id>93619</id>
+      </contributor>
+      <minor/>
+      <comment>/* Accuracy */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5354">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)
+
+:The article is now marked with {{tl|nofootnotes}}. The references indeed exist, but they are not marked with &lt;nowiki&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/nowiki&gt; tags, which is a purely technical issue - not an issue of content quality, of course. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:07, 23 January 2008 (UTC)
+
+::Self-reverted. The sources are clear, and ref tags are not mandatory. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:16, 23 January 2008 (UTC)
+
+The usage of genetic algorithms for this concept seems outdated and unnecessary. Genetic algorithms were used in the 90s (and have completely fallen out of fashion) and inherently have nothing to do with outsourcing computational steps to humans -- an idea that predates genetic algorithms themselves. (Anonymous at 209.117.47.253)
+
+:  Wikipedia is not a fashion show, so fashion is not that big of a concern here.  Could you please provide at least one reference to support your other claim that HBC idea predates genetic algorithms?  Any publication that proposes a computer-executed algorithm outsourcing some step to humans would do as long as it is published before 1960s when genetic algorithms became a common optimization tool. I did some research in the subject, but never came across references like ones your claim could be based on, so I doubt that you have or can find one. Here is a couple of reasons that make me believe so: (1) the concept of outsourcing wasn't proposed till 1990s (in connection with the core competence ideas by Prahalad/Hamel), (2) HBC implies ability of the algorithm running inside a computer to communicate quickly with a large number of humans which is only feasible if you have low-latency scalable communication media. This media just wasn't available before the advent of the data networks, like the Internet. In other words, the prerequisites for HBC weren't there till 90s when the concept originated. I guess if someone would have introduced HBC concept before that, this could only be purely theoretical work. I still would like to know of one if it exists. Whether you like it or not, the concept was introduced and developed in its current form by   evolutionary computation researchers who were motivated by the difficulty in producing algorithmic fitness functions that would adequately express human preference and perception of beauty. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 22:46, 5 February 2012 (UTC)
+
+== Accuracy ==
+
+&quot;Human computation&quot; redirects to this article, but this article covers almost none of the work that is generally agreed to be in this area.  See for example the book Human Computation by Edith Law and Luis von Ahn, which came out in 2011 by Morgan and Claypool Publishers and provides a comprehensive overview of the topic, or the proceedings of the last 4 Human Computation Workshops.  Almost nothing from this article is found in those venues, and very little from those publications are present here.  I suggest creating a separate article for Human Computation -- it is a well-established research area that is not reflected here.
+
+(I also note that one of the editors of this article is also included in citations in this article, further bringing into question the objectivity of the coverage of this topic.)  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.193.6.52|68.193.6.52]] ([[User talk:68.193.6.52|talk]]) 08:41, 4 December 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:* The separate article describing human computation (HC) in its generally accepted meaning exists, see [[human computer]]. As you can see, the common meaning of HC is different from the one you advocate. In fact, the book you suggested uses HC as a shortcut label for HBC and essentially justifies the existing redirect. I think, this usage is questionable as HC doesn't capture non-algorithmic tasks humans commonly do in HBC. Unfortunately, the erroneous usage became widespread mainly due to the authors of the book you mentioned. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 08:58, 10 March 2013 (UTC)</text>
+      <sha1>3xrzbto13ssw2ppth69avjqucx5fwwf</sha1>
+    </revision>
+    <revision>
+      <id>565963304</id>
+      <parentid>543181945</parentid>
+      <timestamp>2013-07-27T01:14:58Z</timestamp>
+      <contributor>
+        <ip>24.251.197.52</ip>
+      </contributor>
+      <comment>Outsourcing vs. Delegating</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5560">{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)
+
+:The article is now marked with {{tl|nofootnotes}}. The references indeed exist, but they are not marked with &lt;nowiki&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/nowiki&gt; tags, which is a purely technical issue - not an issue of content quality, of course. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:07, 23 January 2008 (UTC)
+
+::Self-reverted. The sources are clear, and ref tags are not mandatory. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:16, 23 January 2008 (UTC)
+
+The usage of genetic algorithms for this concept seems outdated and unnecessary. Genetic algorithms were used in the 90s (and have completely fallen out of fashion) and inherently have nothing to do with outsourcing computational steps to humans -- an idea that predates genetic algorithms themselves. (Anonymous at 209.117.47.253)
+
+:  Wikipedia is not a fashion show, so fashion is not that big of a concern here.  Could you please provide at least one reference to support your other claim that HBC idea predates genetic algorithms?  Any publication that proposes a computer-executed algorithm outsourcing some step to humans would do as long as it is published before 1960s when genetic algorithms became a common optimization tool. I did some research in the subject, but never came across references like ones your claim could be based on, so I doubt that you have or can find one. Here is a couple of reasons that make me believe so: (1) the concept of outsourcing wasn't proposed till 1990s (in connection with the core competence ideas by Prahalad/Hamel), (2) HBC implies ability of the algorithm running inside a computer to communicate quickly with a large number of humans which is only feasible if you have low-latency scalable communication media. This media just wasn't available before the advent of the data networks, like the Internet. In other words, the prerequisites for HBC weren't there till 90s when the concept originated. I guess if someone would have introduced HBC concept before that, this could only be purely theoretical work. I still would like to know of one if it exists. Whether you like it or not, the concept was introduced and developed in its current form by   evolutionary computation researchers who were motivated by the difficulty in producing algorithmic fitness functions that would adequately express human preference and perception of beauty. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 22:46, 5 February 2012 (UTC)
+
+== Accuracy ==
+
+&quot;Human computation&quot; redirects to this article, but this article covers almost none of the work that is generally agreed to be in this area.  See for example the book Human Computation by Edith Law and Luis von Ahn, which came out in 2011 by Morgan and Claypool Publishers and provides a comprehensive overview of the topic, or the proceedings of the last 4 Human Computation Workshops.  Almost nothing from this article is found in those venues, and very little from those publications are present here.  I suggest creating a separate article for Human Computation -- it is a well-established research area that is not reflected here.
+
+(I also note that one of the editors of this article is also included in citations in this article, further bringing into question the objectivity of the coverage of this topic.)  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.193.6.52|68.193.6.52]] ([[User talk:68.193.6.52|talk]]) 08:41, 4 December 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:* The separate article describing human computation (HC) in its generally accepted meaning exists, see [[human computer]]. As you can see, the common meaning of HC is different from the one you advocate. In fact, the book you suggested uses HC as a shortcut label for HBC and essentially justifies the existing redirect. I think, this usage is questionable as HC doesn't capture non-algorithmic tasks humans commonly do in HBC. Unfortunately, the erroneous usage became widespread mainly due to the authors of the book you mentioned. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 08:58, 10 March 2013 (UTC)
+
+== Outsourcing vs. Delegating ==
+Outsourcing is a business process. See wiki: Delegating.
+[[Special:Contributions/24.251.197.52|24.251.197.52]] ([[User talk:24.251.197.52|talk]]) 01:14, 27 July 2013 (UTC)</text>
+      <sha1>hz1g8ab40zq98njj0cysrfkgima2oma</sha1>
+    </revision>
+    <revision>
+      <id>608470075</id>
+      <parentid>565963304</parentid>
+      <timestamp>2014-05-13T23:58:50Z</timestamp>
+      <contributor>
+        <username>Christian75</username>
+        <id>1306352</id>
+      </contributor>
+      <comment>Assessment: +Computer Science ([[User:Kephir/gadgets/rater|assisted]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5593">{{WikiProject Computer Science}}
+{{oldafdfull|date=July 3, 2007||result='''Keep'''}}
+
+==References==
+Pleawse provide reerences for all major claims, as well as for little known facts, in the '''body''' of the article, rather than just a list of publications at the bottom. `'[[user:mikkalai|Miikka]] 02:29, 3 July 2007 (UTC)
+
+:* Please read the article before making claims about its content or reference quality. Of course it has room for improvement as any other article, but it is easy to see that most of the references are cited in its body. Anyways, I had removed the OR template as I don't see any support for it. You are welcome to question any particular claim or little known fact here, on the talk page. Thanks. [[User:Alex Kosorukoff|Alex Kosorukoff]] 22:33, 9 July 2007 (UTC)
+
+Sorry for a newbie hit-and-run comment. I just noticed this article, it might want to connect to [[ReCAPTCHA|ReCAPTCHA]] or [[Crowdsourcing|Crowdsourcing]] which are related concepts.  [[User:BananaSlug|BananaSlug]] 23:03, 26 July 2007 (UTC)
+
+:* Thank you for your comment. These are indeed related. [[User:Alex Kosorukoff|Alex Kosorukoff]] 06:33, 28 July 2007 (UTC)
+
+:The article is now marked with {{tl|nofootnotes}}. The references indeed exist, but they are not marked with &lt;nowiki&gt;&lt;ref&gt;&lt;/ref&gt;&lt;/nowiki&gt; tags, which is a purely technical issue - not an issue of content quality, of course. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:07, 23 January 2008 (UTC)
+
+::Self-reverted. The sources are clear, and ref tags are not mandatory. [[User:GregorB|GregorB]] ([[User talk:GregorB|talk]]) 16:16, 23 January 2008 (UTC)
+
+The usage of genetic algorithms for this concept seems outdated and unnecessary. Genetic algorithms were used in the 90s (and have completely fallen out of fashion) and inherently have nothing to do with outsourcing computational steps to humans -- an idea that predates genetic algorithms themselves. (Anonymous at 209.117.47.253)
+
+:  Wikipedia is not a fashion show, so fashion is not that big of a concern here.  Could you please provide at least one reference to support your other claim that HBC idea predates genetic algorithms?  Any publication that proposes a computer-executed algorithm outsourcing some step to humans would do as long as it is published before 1960s when genetic algorithms became a common optimization tool. I did some research in the subject, but never came across references like ones your claim could be based on, so I doubt that you have or can find one. Here is a couple of reasons that make me believe so: (1) the concept of outsourcing wasn't proposed till 1990s (in connection with the core competence ideas by Prahalad/Hamel), (2) HBC implies ability of the algorithm running inside a computer to communicate quickly with a large number of humans which is only feasible if you have low-latency scalable communication media. This media just wasn't available before the advent of the data networks, like the Internet. In other words, the prerequisites for HBC weren't there till 90s when the concept originated. I guess if someone would have introduced HBC concept before that, this could only be purely theoretical work. I still would like to know of one if it exists. Whether you like it or not, the concept was introduced and developed in its current form by   evolutionary computation researchers who were motivated by the difficulty in producing algorithmic fitness functions that would adequately express human preference and perception of beauty. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 22:46, 5 February 2012 (UTC)
+
+== Accuracy ==
+
+&quot;Human computation&quot; redirects to this article, but this article covers almost none of the work that is generally agreed to be in this area.  See for example the book Human Computation by Edith Law and Luis von Ahn, which came out in 2011 by Morgan and Claypool Publishers and provides a comprehensive overview of the topic, or the proceedings of the last 4 Human Computation Workshops.  Almost nothing from this article is found in those venues, and very little from those publications are present here.  I suggest creating a separate article for Human Computation -- it is a well-established research area that is not reflected here.
+
+(I also note that one of the editors of this article is also included in citations in this article, further bringing into question the objectivity of the coverage of this topic.)  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/68.193.6.52|68.193.6.52]] ([[User talk:68.193.6.52|talk]]) 08:41, 4 December 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:* The separate article describing human computation (HC) in its generally accepted meaning exists, see [[human computer]]. As you can see, the common meaning of HC is different from the one you advocate. In fact, the book you suggested uses HC as a shortcut label for HBC and essentially justifies the existing redirect. I think, this usage is questionable as HC doesn't capture non-algorithmic tasks humans commonly do in HBC. Unfortunately, the erroneous usage became widespread mainly due to the authors of the book you mentioned. [[User:Alex Kosorukoff|Alex Kosorukoff]] ([[User talk:Alex Kosorukoff|talk]]) 08:58, 10 March 2013 (UTC)
+
+== Outsourcing vs. Delegating ==
+Outsourcing is a business process. See wiki: Delegating.
+[[Special:Contributions/24.251.197.52|24.251.197.52]] ([[User talk:24.251.197.52|talk]]) 01:14, 27 July 2013 (UTC)</text>
+      <sha1>d3lh6o5o8zuhz2u0gw3afjpgg2o7dmg</sha1>
+    </revision>
+  </page>
+</mediawiki>
