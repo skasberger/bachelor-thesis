@@ -2,7 +2,7 @@
 
 
 cd ../python
-python wikistats.py -i '../../data/raw/xml/Finger_Lakes3.xml' 
+python wikistats.py -i '../../data/raw/xml/fingerlakes/Finger_Lakes3.xml'
 
 python wikistats.py -i '../../data/raw/xml/se-paper/45th_Infantry_Division_(United_States).xml' 
 python wikistats.py -i '../../data/raw/xml/se-paper/Goranci.xml' 

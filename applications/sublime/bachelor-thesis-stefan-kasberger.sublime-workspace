@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"dele",
+				"deletesOthers"
+			],
+			[
+				"get",
+				"getMetric"
+			],
+			[
+				"auth",
+				"author_id"
+			],
+			[
+				"com",
+				"compute_metrics_2"
+			],
+			[
+				"num",
+				"numMainAndOthers"
+			],
+			[
+				"count",
+				"countOthers"
+			],
+			[
+				"filename",
+				"filename"
+			],
+			[
+				"fold",
+				"folderJSON"
+			],
+			[
+				"folder",
+				"folderXML"
+			],
+			[
+				"fol",
+				"folderXML"
+			],
+			[
+				"revi",
+				"revision-id"
+			],
+			[
 				"neg",
 				"negativeActionsAbs"
 			],
@@ -252,38 +296,6 @@
 	"buffers":
 	[
 		{
-			"file": "/opendada/science/academia/bakk/code/wikiwhoweb/src/wikistats.py",
-			"settings":
-			{
-				"buffer_size": 25254,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/opendada/science/academia/bakk/code/python/compute-stats.sh",
-			"settings":
-			{
-				"buffer_size": 1074,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/opendada/science/academia/bakk/data/json/first-test/order_Finger_Lakes3.json",
-			"settings":
-			{
-				"buffer_size": 803,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/opendada/science/academia/bakk/data/json/first-test/stats_Finger_Lakes3.json",
-			"settings":
-			{
-				"buffer_size": 55064,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/opendada/science/academia/bakk/data/json/first-test/stats_Alden_Partridge.json",
 			"settings":
 			{
@@ -292,18 +304,18 @@
 			}
 		},
 		{
-			"file": "/opendada/science/academia/bakk/code/python/cisemcode/wikiplots.py",
+			"file": "/opendada/science/academia/bakk/code/python/analysis.py",
 			"settings":
 			{
-				"buffer_size": 10621,
+				"buffer_size": 28367,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/opendada/science/academia/bakk/code/python/cisemcode/wikistats.py",
+			"file": "/opendada/science/academia/bakk/code/python/wikiplots.py",
 			"settings":
 			{
-				"buffer_size": 9483,
+				"buffer_size": 7564,
 				"line_ending": "Unix"
 			}
 		}
@@ -314,6 +326,14 @@
 		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -370,22 +390,79 @@
 		"/opendada/science/academia/bakk",
 		"/opendada/science/academia/bakk/code",
 		"/opendada/science/academia/bakk/code/python",
+		"/opendada/science/academia/bakk/code/python/wmf",
 		"/opendada/science/academia/bakk/code/shell",
-		"/opendada/science/academia/bakk/code/wikiwhoweb",
-		"/opendada/science/academia/bakk/code/wikiwhoweb/src",
 		"/opendada/science/academia/bakk/data",
 		"/opendada/science/academia/bakk/data/json",
 		"/opendada/science/academia/bakk/data/json/first-test",
 		"/opendada/science/academia/bakk/data/raw",
 		"/opendada/science/academia/bakk/data/raw/xml",
+		"/opendada/science/academia/bakk/data/raw/xml/dataset2",
+		"/opendada/science/academia/bakk/data/raw/xml/se-paper",
 		"/opendada/science/academia/bakk/tmp"
 	],
 	"file_history":
 	[
+		"/opendada/science/academia/bakk/venv/lib/python2.7/site-packages/django/contrib/auth/fixtures/context-processors-users.xml",
+		"/opendada/science/academia/bakk/venv/lib/python2.7/site-packages/django/core/context_processors.py",
+		"/opendada/science/academia/bakk/venv/lib/python2.7/site-packages/bokeh/server/static/js/vendor/backbone-amd/CONTRIBUTING.md",
+		"/opendada/science/academia/bakk/venv/lib/python2.7/site-packages/pystache/context.py",
+		"/opendada/science/academia/bakk/venv/lib/python2.7/site-packages/requests/packages/chardet/constants.py",
+		"/opendada/science/academia/bakk/venv/lib/python2.7/site-packages/zmq/utils/getpid_compat.h",
+		"/opendada/science/academia/bakk/venv/lib/python2.7/site-packages/setuptools/package_index.py",
+		"/opendada/science/academia/bakk/venv/lib/python2.7/site-packages/requests/packages/urllib3/_collections.py",
+		"/opendada/science/academia/bakk/venv/lib/python2.7/site-packages/pandas/io/packers.py",
+		"/opendada/science/academia/bakk/code/python/others/mwlib/mwlib/parse_collection_page.py",
+		"/opendada/science/academia/bakk/venv/include/python2.7/Python-ast.h",
+		"/opendada/science/academia/bakk/venv/bin/pip",
+		"/opendada/io/temp/test.json",
+		"/opendada/science/academia/bakk/code/shell/call-wikistats.sh",
+		"/opendada/apps/Dropbox/June14/src/wikistats.py",
+		"/opendada/science/academia/bakk/code/python/wikistats.py",
+		"/opendada/science/academia/bakk/data/json/first-test/stats_Blue_iguana.json",
+		"/opendada/science/academia/bakk/data/json/first-test/stats_Welding.json",
+		"/opendada/science/academia/bakk/data/raw/xml/dataset2/Amstrad_CPC.xml",
+		"/opendada/science/academia/bakk/data/raw/xml/dataset2/Antarctica.xml",
+		"/home/cheeseman/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/cheeseman/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/opendada/science/academia/bakk/data/json/first-test/stats_Margaret_Kilgallen.json",
+		"/opendada/science/academia/bakk/data/json/first-test/order_Margaret_Kilgallen.json",
+		"/opendada/science/academia/bakk/code/python/WikiwhoRelationships.py",
+		"/opendada/science/academia/bakk/data/raw/xml/se-paper/Alden_Partridge.xml",
+		"/opendada/science/academia/bakk/data/raw/xml/fingerlakes/talk_Finger_Lakes2.xml",
+		"/opendada/science/academia/bakk/data/raw/xml/fingerlakes/talk_Finger_Lakes3.xml",
+		"/opendada/science/academia/bakk/code/python/wikibuild.py",
+		"/opendada/science/academia/bakk/code/python/wikiimport.py",
+		"/opendada/science/academia/bakk/code/python/wikiplots.py",
+		"/opendada/science/academia/bakk/tmp/dummy",
+		"/opendada/science/academia/bakk/code/shell/call-wikiimport.sh",
+		"/opendada/science/academia/bakk/code/shell/screen.sh",
+		"/opendada/science/academia/bakk/code/shell/call-wikibuild.sh",
+		"/opendada/science/academia/bakk/code/shell/compute-stats.sh",
+		"/opendada/science/academia/bakk/data/raw/xml/Finger_Lakes3.xml",
+		"/opendada/science/academia/bakk/data/json/first-test/stats_Blank_Page.json",
+		"/opendada/science/academia/bakk/data/json/first-test/stats_Alden_Partridge.json",
+		"/opendada/science/academia/bakk/data/json/first-test/stats_You_Are_the_Apple_of_My_Eye.json",
+		"/opendada/science/academia/bakk/data/json/first-test/stats_Territorial_era_of_Minnesota.json",
+		"/opendada/science/academia/bakk/data/json/first-test/stats_List_of_record_labels:_I–Q.json",
+		"/opendada/science/academia/bakk/data/json/first-test/stats_Jake_Gyllenhaal_filmography.json",
+		"/opendada/science/academia/bakk/data/json/first-test/stats_List_of_colossal_squid_specimens_and_sightings.json",
+		"/opendada/science/academia/bakk/code/python/wikibuild_server.py",
+		"/opendada/science/academia/bakk/code/shell/fetch-xml.sh",
+		"/opendada/science/academia/bakk/code/wikiwhoweb/src/wikistats.py",
+		"/opendada/science/academia/bakk/fetch.sh",
+		"/opendada/science/academia/bakk/code/wikiwhoweb/src/wikistats_old.py",
+		"/opendada/science/academia/bakk/code/python/cisemcode/wikiplots.py",
 		"/opendada/science/academia/bakk/code/python/compute-authors.sh",
+		"/opendada/science/academia/bakk/code/python/fetch.sh",
+		"/opendada/science/academia/bakk/code/python/compute-stats.sh",
+		"/opendada/science/academia/bakk/data/json/stats_Finger_Lakes3.json",
+		"/opendada/science/academia/bakk/data/raw/xml/first-test/45th_Infantry_Division_(United_States).xml",
+		"/opendada/science/academia/bakk/code/python/cisemcode/wikistats.py",
+		"/opendada/science/academia/bakk/data/json/first-test/stats_Finger_Lakes3.json",
+		"/opendada/science/academia/bakk/data/json/first-test/order_Finger_Lakes3.json",
 		"/opendada/science/academia/bakk/data/json/first-test/authors_stats_Finger_Lakes3.json",
 		"/opendada/science/academia/bakk/data/json/first-test/authors_top_Finger_Lakes3.json",
-		"/opendada/science/academia/bakk/data/raw/xml/Finger_Lakes3.xml",
 		"/opendada/science/academia/bakk/data/raw/xml/Talk_Finger_Lakes3.xml",
 		"/opendada/science/academia/bakk/data/json/first-test/stats_Battle_of_Chickamauga.json",
 		"/opendada/science/academia/bakk/data/json/first-test/stats_Goranci.json",
@@ -393,17 +470,13 @@
 		"/opendada/science/academia/bakk/data/json/first-test/stats_SMS_Von_der_Tann.json",
 		"/opendada/science/academia/bakk/data/json/first-test/stats_William_McKendree.json",
 		"/opendada/science/academia/bakk/data/json/first-test/stats_45th_Infantry_Division_(United_States).json",
-		"/opendada/science/academia/bakk/code/python/compute-stats.sh",
-		"/opendada/science/academia/bakk/code/python/cisemcode/wikistats.py",
 		"/opendada/science/academia/bakk/data/json/first-test/order_Battle_of_Chickamauga.json",
 		"/opendada/science/academia/bakk/code/python/wikigraph.py",
-		"/opendada/science/academia/bakk/code/wikiwhoweb/src/wikistats_old.py",
 		"/opendada/science/academia/bakk/code/wikiwhoweb/src/wikiauthors.py",
 		"/opendada/science/academia/bakk/data/raw/xml/Finger_Lakes2.xml",
 		"/opendada/science/academia/bakk/tmp/stats_Finger_Lakes2.json",
 		"/opendada/science/academia/bakk/tmp/order_Finger_Lakes2.json",
 		"/opendada/science/academia/bakk/tmp/stats_Goranci.json",
-		"/opendada/science/academia/bakk/code/wikiwhoweb/src/wikistats.py",
 		"/opendada/science/academia/bakk/code/python/structuresML/Sentence.py",
 		"/opendada/science/academia/bakk/code/python/structuresML/Paragraph.py",
 		"/opendada/science/academia/bakk/code/python/structuresML/Revision.py",
@@ -426,11 +499,9 @@
 		"/opendada/science/academia/bakk/data/json/se-paper/authors_Alden_Partridge.json",
 		"/opendada/science/academia/bakk/code/python/compute-data.py",
 		"/opendada/science/academia/bakk/data/json/first-test/authors_authors_Goranci.json",
-		"/opendada/science/academia/bakk/data/json/first-test/stats_Alden_Partridge.json",
 		"/opendada/science/academia/bakk/data/json/first-test/stats2_Alden_Partridge.json",
 		"/opendada/apps/Dropbox/June14/src/wikiauthors.py",
 		"/opendada/science/academia/bakk/data/json/first-test/authors_authors_Alden_Partridge.json",
-		"/opendada/science/academia/bakk/code/python/wikiimport.py",
 		"/opendada/science/academia/bakk/code/python/wikirandomnames.py",
 		"/opendada/science/academia/bakk/tmp/talk_45th_Infantry_Division_(United_States).xml",
 		"/opendada/science/academia/bakk/tmp/talk_Alden_Partridge.xml",
@@ -455,61 +526,11 @@
 		"/opendada/science/academia/bakk/tmp/Alden_Partridge.xml",
 		"/opendada/science/academia/bakk/tmp/45th_Infantry_Division_(United_States).xml",
 		"/opendada/science/academia/bakk/code/raw/wikiimport.py",
-		"/opendada/science/academia/bakk/code/python/WikiwhoRelationships.py",
 		"/opendada/science/academia/bakk/code/python/fetch-wikipages.py",
 		"/opendada/science/academia/bakk/data/json/se-paper/stats_Alden_Partridge.json",
 		"/opendada/science/academia/bakk/data/json/se-paper/authors_stats_Goranci.json",
 		"/opendada/science/academia/bakk/data/json/se-paper/authors_authors_William_McKendree.json",
-		"/opendada/science/academia/bakk/data/json/se-paper/order_Alden_Partridge.json",
-		"/opendada/science/academia/bakk/data/json/se-paper/stats2_Alden_Partridge.json",
-		"/home/cheeseman/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-		"/opendada/science/academia/bakk/data/json/se-paper/authors_authors_Goranci.json",
-		"/opendada/science/academia/bakk/code/wikiwhoweb/src/new_wikigraph.py",
-		"/opendada/apps/Dropbox/June14/src/wikistats.py",
-		"/opendada/science/academia/bakk/data/json/authors_Alden_Partridge.json",
-		"/opendada/science/academia/bakk/data/json/se-paper/stats_Goranci.json",
-		"/opendada/science/academia/bakk/data/json/authorstats_Goranci.json",
-		"/opendada/science/academia/bakk/data/json/authors_45th_Infantry_Division_(United_States).json",
-		"/opendada/science/academia/bakk/code/python/cisemcode/wikirandomnames.py",
-		"/opendada/science/academia/bakk/code/python/cisemcode/autoimport.py",
-		"/opendada/science/academia/bakk/code/python/cisemcode/Goranci.xml",
-		"/opendada/science/academia/bakk/code/python/cisemcode/debug.xml",
-		"/opendada/science/academia/bakk/data/json/stats_Goranci.json",
-		"/opendada/science/academia/bakk/data/json/stats2_Goranci.json",
-		"/opendada/science/academia/bakk/data/json/order_Goranci.json",
-		"/opendada/science/academia/bakk/data/json/order_William_McKendree.json",
-		"/opendada/science/academia/bakk/code/wikiwhoweb/demo/ownership.html",
-		"/opendada/science/academia/bakk/code/wikiwhoweb/src/WikiwhoRelationships.py",
-		"/opendada/science/academia/bakk/data/json/stats_William_McKendree.json",
-		"/opendada/science/academia/bakk/data/json/stats2_William_McKendree.json",
-		"/opendada/science/academia/bakk/data/json/authors_Battle_of_Chickamauga_20141211153912.xml.json",
-		"/opendada/science/academia/bakk/code/wikiwhoweb/src/data2.json",
-		"/opendada/science/academia/bakk/code/wikiwhoweb/demo/demo.html",
-		"/opendada/science/academia/bakk/data/json/authors_45th_Infantry_Division_(United_States)_20141211153912.xml.json",
-		"/opendada/science/academia/bakk/data/json/authors_Battle_of_Chickamauga_20141211153912.xml.jsonfg",
-		"/opendada/science/academia/bakk/data/json/authors_Mary_Martha_Sherwood_20141211153912.xml.json",
-		"/opendada/science/academia/bakk/data/json/authors_Alden_Partridge_20141211153912.xml.json",
-		"/opendada/science/academia/bakk/data/json/authors_Welding_20141211153912.xml.json",
-		"/opendada/science/academia/bakk/data/json/authors_Alden_Partridge_20141211153912.json",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/talk_Welding_20141211153912.xml",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/Alden_Partridge_20141211153912.xml",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/Battle_of_Chickamauga_20141211153912.xml",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/Mary_Martha_Sherwood_20141211153912.xml",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/Welding_20141211153912.xml",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/talk_Alden_Partridge_20141211153912.xml",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/talk_Battle_of_Chickamauga_20141211153912.xml",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/talk_Mary_Martha_Sherwood_20141211153912.xml",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/talk_45th_Infantry_Division_(United_States)_20141211153912.xml",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/45th_Infantry_Division_(United_States)_20141211153912.xml",
-		"/opendada/science/academia/bakk/data/json/wikipedia_Alden_Partridge.json",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/Alden_Partridge-20141210.xml",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/Wikipedia-20141211140336.xml",
-		"/opendada/science/academia/bakk/data/raw/xml/se-paper/curl_Alden_Partridge.xml",
-		"/opendada/science/academia/bakk/data/json/authors_Alden_Partridge-20141210.json",
-		"/opendada/science/academia/bakk/code/python/WikiWhoV2/wikigraph.py",
-		"/opendada/science/academia/bakk/code/python/WikiWhoV2/WikiwhoRelationships.py",
-		"/opendada/science/academia/bakk/code/python/WikiWhoV2/wikistats.py",
-		"/opendada/science/academia/bakk/code/wikiwhoweb/src/alden-partridge.xml"
+		"/opendada/science/academia/bakk/data/json/se-paper/order_Alden_Partridge.json"
 	],
 	"find":
 	{
@@ -553,9 +574,38 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": true,
+		"case_sensitive": false,
 		"find_history":
 		[
+			"temp",
+			"(1-a)*b",
+			"a*b",
+			"(1-a)*b",
+			"reintroMaintainerAvg",
+			"wikiplots.d",
+			"fileformats",
+			"drawplot",
+			"split",
+			"stats",
+			"s(",
+			"s[] = ",
+			"dictTemp",
+			"getWikipages",
+			"rel_to",
+			"rel_to_root",
+			"drawPlot",
+			"wikirandomnames",
+			"Lionratz",
+			"first-test",
+			"negativeActionsAbs",
+			"revision-count",
+			"sortedEditDistSum",
+			"giniEditorship",
+			"revision",
+			"counterRevisions",
+			"revision-count",
+			"negative-actions",
+			"maintain",
 			"authors_",
 			"maintain",
 			"template",
@@ -654,36 +704,7 @@
 			"all_data",
 			"': ' + ",
 			"': '+ ",
-			"data += ",
-			"example",
-			"= example + ",
-			" '\"",
-			" = example + ",
-			"= example +",
-			"folder_json",
-			"        saveStatsToFile('../../../data/json/author_'+os.path.basename(file_name).split('.')[0]+'.json', json.dumps(printAuthors(final_top), indent=2))\n",
-			"autoimport",
-			"file_name",
-			"article",
-			"wikistats",
-			"sys.argv[1]",
-			"0.8",
-			"getXMLFromApi",
-			"printTags",
-			"maintainers",
-			"'",
-			"elem",
-			"json",
-			"python",
-			"\".p\"",
-			"s.pa",
-			".p",
-			"pickle",
-			"getStatsOfFile",
-			"not",
-			"sumAuthDist",
-			"getAuthorshipDataFromRevision",
-			"printStats"
+			"data += "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -723,129 +744,11 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/opendada/science/academia/bakk/code/wikiwhoweb/src/wikistats.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 25254,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								22612,
-								22612
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 10260.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/opendada/science/academia/bakk/code/python/compute-stats.sh",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1074,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								819,
-								819
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/opendada/science/academia/bakk/data/json/first-test/order_Finger_Lakes3.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 803,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/opendada/science/academia/bakk/data/json/first-test/stats_Finger_Lakes3.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 55064,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								299,
-								299
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "/opendada/science/academia/bakk/data/json/first-test/stats_Alden_Partridge.json",
 					"semi_transient": false,
 					"settings":
@@ -857,8 +760,8 @@
 						"selection":
 						[
 							[
-								15671,
-								15671
+								2345,
+								2345
 							]
 						],
 						"settings":
@@ -868,27 +771,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 324.0,
+						"translation.y": 2471.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "/opendada/science/academia/bakk/code/python/cisemcode/wikiplots.py",
+					"buffer": 1,
+					"file": "/opendada/science/academia/bakk/code/python/analysis.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10621,
+						"buffer_size": 28367,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8648,
-								8648
+								25541,
+								25541
 							]
 						],
 						"settings":
@@ -898,40 +801,47 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4388.0,
+						"translation.y": 9464.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "/opendada/science/academia/bakk/code/python/cisemcode/wikistats.py",
+					"buffer": 2,
+					"file": "/opendada/science/academia/bakk/code/python/wikiplots.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9483,
+						"buffer_size": 7564,
 						"regions":
 						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+								],
+								"scope": "bookmarks"
+							}
 						},
 						"selection":
 						[
 							[
-								1814,
-								1814
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Python/Python.tmLanguage"
 						},
-						"translation.x": 72.0,
-						"translation.y": 860.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
