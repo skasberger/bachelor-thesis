@@ -32,12 +32,11 @@
 
 "The basic expression of territoriality is marking, the placement of an object or substance into a space to indicate ownership of one’s territory. Territoriality can also be expressed through defense, actions that serve as a response to a perceived invasion of an established territory." [Brown, G., Lawrence, T.B., Robinson, S.L., 2005. Territoriality in Organizations. The Academy of Management Review 30, 577–594. doi:10.2307/20159145]
 
-
 ## 1. IS THE MAINTAINER TERRITORIAL ON THE ARTICLE?
 - **Territoriality is a strategy executed in space**
 - **Territoriality is social and geographical**
 - **People who exercise control must be inside the territory**
-- **Territory is the article, actors art the editors of it.**
+- **=> Territory is the article, actors are the editors in it.**
 
 ### a) DOES THE MAINTAINER MARK THE ARTICLE?
 **Direct territorial actions!**
@@ -59,6 +58,7 @@
 		- Q: How many templates does a maintainer add per article compared to other editors? => ratio
 - H: Does a maintainer undo deletes and re-deletes of tokens (re-introductions)?
 	- of all tokens, not just his ones, cause territory is the article, not his tokens. can also be seen as marking
+- H: is semi-protection or protected used over-proportionally?
 
 ### b) DOES THE MAINTAINER DEFEND THE ARTICLE?
 **Direct territorial actions!**
